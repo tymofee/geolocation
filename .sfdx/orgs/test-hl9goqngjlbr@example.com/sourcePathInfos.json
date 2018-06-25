@@ -32,44 +32,42 @@
     [
         "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529907245105,
             "changeTime": 1529907245105,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1529646489099,
-            "changeTime": 1529646489099,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1529907492221,
+            "changeTime": 1529907492221,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
         "C:\\Users\\TimothyFabros\\geolocation",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\TimothyFabros\\geolocation",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1529647144918,
-            "changeTime": 1529647144918,
-            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1529904100965,
+            "changeTime": 1529904100965,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3"
         }
     ],
     [
@@ -218,40 +216,170 @@
     [
         "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529907245136,
             "changeTime": 1529907245136,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 325,
             "modifiedTime": 1529907318181,
             "changeTime": 1529907318181,
-            "contentHash": "ee891b605335a67223802794f5c5ffd34aac33cf"
+            "contentHash": "ee891b605335a67223802794f5c5ffd34aac33cf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1529907245136,
             "changeTime": 1529907245136,
-            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529907492236,
+            "changeTime": 1529907492236,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1529907492221,
+            "changeTime": 1529907492221,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 167,
+            "modifiedTime": 1529907530936,
+            "changeTime": 1529907530936,
+            "contentHash": "7e42858a5b70f2f7e5dbc67ce0ca4cadb5c6ff95"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1529907492221,
+            "changeTime": 1529907492221,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1529907546240,
+            "changeTime": 1529907546240,
+            "contentHash": "251aff54dc3d80eb2737c6ba853cad85531e3a00"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1529907492236,
+            "changeTime": 1529907492236,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1529907492221,
+            "changeTime": 1529907492221,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1529907492221,
+            "changeTime": 1529907492221,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1529907492221,
+            "changeTime": 1529907492221,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\TimothyFabros\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1529907492221,
+            "changeTime": 1529907492221,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
